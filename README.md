@@ -3,9 +3,9 @@
 > **Tabla de Contenido**
 > 
 
-# Minecraft en Windows
+## Minecraft en Windows
 
-## Recursos
+### Recursos
 
 1. **Java 17** (Requerido para la ultima versión de Minecraft Java Edition)
     
@@ -24,7 +24,7 @@
     [Download Visual Studio Code - Mac, Linux, Windows](https://code.visualstudio.com/download)
     
 
-## Instalación Java Edition
+### Instalación Java Edition
 
 1. Instalar Java desde la lista de recursos, seguir los pasos del instalador y asegurarse que se está instalando la versión correcta para correr la versión deseada.
     
@@ -54,14 +54,14 @@
     
 6. Una vez aceptado el [EULA](https://www.minecraft.net/es-es/eula)  es posible iniciar el servidor con parámetros preestablecidos en el archivo `server.properties` que se generará. Estas opciones dependerán de cada administrador del servidor.
 
-## Firewall de Windows / Antivirus
+### Firewall de Windows / Antivirus
 
 1. Normalmente es posible jugar sin ningún problema, sin embargo a veces el Firewall de Windows o de cualquier programa antivirus puede bloquear las conexiones, para solucionar este problema es necesario hacer lo siguiente.
     1. Abrir el puerto `25565` o en su caso el establecido en `server.properties`.
     2. El puerto debe ser una **regla de entrada (Inbound)** y habilitada para `TCP` y `UDP`.
     3. El puerto debe ser habilitado para conexiones públicas y privadas.
 
-# Instalación en Linux (Ubuntu)
+## Instalación en Linux (Ubuntu)
 
 Una vez teniendo nuestra maquina virtual debemos hacer un update y un upgrade de nuestras librerías.
 
