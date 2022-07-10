@@ -1,8 +1,5 @@
 # Servidor de Minecraft
 
-> **Tabla de Contenido**
-> 
-
 ## Minecraft en Windows
 
 ### Recursos
